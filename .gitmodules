@@ -1,0 +1,3 @@
+[submodule "Flask-URL-Shortener"]
+	path = Flask-URL-Shortener
+	url = https://github.com/GlowSquid/Flask-URL-Shortener
